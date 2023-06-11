@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello, I'm Piero Bryan</h2>
+![kalea-morgan--A_IZSi-wQ0-unsplash(1)](https://github.com/PieroBryanBL/PieroBryanBL/assets/107169260/40ff64af-aa80-4da3-9fe4-44f70a9160ee)
+
+<h2>Hello, I'm Piero Bryan</h2>
 
 <!-- ## 👋 &nbsp;Hola, soy Piero Bryan -->
 
