@@ -1,5 +1,3 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, soy Piero Bryan.</h2>
 
 <!-- ## 👋 &nbsp;Hola, soy Piero Bryan -->
@@ -34,19 +32,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+|<p align="center"><a href="https://github.com/AVS1508"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/></a></p>|
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pierobryanst1@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Piero%20Bryan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pierobryanst1@gmail.com"><img src="https://img.shields.io/badge/-pierobryanst1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
-Créditos: [Aditya Vikram Singh por la plantilla](https://github.com/AVS1508)
+Editado y corregido por mi.
+Créditos: [Aditya Vikram Singh](https://github.com/AVS1508)
