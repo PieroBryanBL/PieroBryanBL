@@ -2,7 +2,7 @@
 
 <h2>Hello, I'm Piero Bryan</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre mi
+### 👨🏻‍💻 &nbsp;About me
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente estoy estudiando de forma autodidácta y explorando nuevas cosas.\
