@@ -1,6 +1,6 @@
 ![GeNZamnlqxWvdlJrLMA5JOEP-image-maker](https://github.com/PieroBryanBL/PieroBryanBL/assets/107169260/674bd80b-05d0-4c4e-87f9-94140cdda97d)
 
-<h2 style="underline">Piero Bryan</h2>
+<h2 style="text-decoration: underline">Piero Bryan</h2>
 
 ### ✨ &nbsp;Sobre mi
 
