@@ -2,7 +2,7 @@
 
 _Piero Bryan_
 
-### ✨ &nbsp;Sobre mi
+### ✨ &nbsp;Un poco sobre mi
 
 💡- Desde temprana edad, al jugar mis juegos favoritos y estar viendo cosas tecnologicas, me han guiado y inspirado a seguir este camino, ahora, mi deseo es aprender y desarrollar cosas para que los demás puedan disfrutarlo. Toco violín, soy autodidacta y me gusta intentar superarme cada día! ✨🚀
 
