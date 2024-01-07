@@ -1,4 +1,4 @@
-![GeNZamnlqxWvdlJrLMA5JOEP-image-maker](https://github.com/PieroBryanBL/PieroBryanBL/assets/107169260/55810af8-ecce-46b9-8e6d-b955053633e6)
+![GeNZamnlqxWvdlJrLMA5JOEP-image-maker](https://github.com/PieroBryanBL/PieroBryanBL/assets/107169260/674bd80b-05d0-4c4e-87f9-94140cdda97d)
 
 <h2>Piero Bryan</h2>
 
