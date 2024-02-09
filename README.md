@@ -6,4 +6,4 @@ _Piero Bryan_
 
 💡- Desde temprana edad, al jugar mis juegos favoritos y estar viendo cosas tecnologicas, me han guiado y inspirado a seguir este camino, ahora, mi deseo es aprender y desarrollar cosas para que los demás puedan disfrutarlo. Toco violín, soy autodidacta y me gusta intentar superarme cada día! ✨🚀
 
-Es un placer tenerte aquí.😊
+Es un placer tenerte aquí!
